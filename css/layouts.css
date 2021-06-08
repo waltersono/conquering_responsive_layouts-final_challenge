@@ -1,0 +1,45 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.row:not(:last-child) {
+    margin-bottom: 2rem;
+}
+
+.col:not(:last-child) {
+    margin-bottom: 2rem;
+}
+
+.section-one {
+    padding: 10rem 0;
+    background-color: var(--accent-light-color);
+    text-align: center;
+}
+
+.main {
+    padding: 10rem 0;
+}
+
+.aside {
+    padding: 1rem;
+}
+
+.footer {
+    padding: 10rem 0;
+    background-color: var(--primary-color);
+    text-align: center;
+}
+
+.footer__list {
+    list-style-type: none;
+    line-height: 2;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: var(--gray-color);
+    text-transform: uppercase;
+    font-size: 1.6rem;
+}

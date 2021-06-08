@@ -1,0 +1,51 @@
+@media (min-width: 900px) {
+    .nav__btn {
+        display: none;
+    }
+
+    .nav__flex {
+        display: flex;
+    }
+
+    .nav__list {
+        display: flex;
+        margin-left: auto;
+    }
+
+    .nav__item + .nav__item {
+        margin-left: 2rem;
+    }
+
+    .footer {
+        text-align: left;
+    }
+
+    .row {
+        display: flex;
+        gap: 2rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .main-content {
+        display: flex;
+        gap: 5%;
+    }
+
+    .header__flex {
+        display: flex;
+    }
+
+    .header__h1 {
+        width: 60%;
+        font-size: 9rem;
+    }
+
+    .header__text-box {
+        text-align: left;
+        width: 40%;
+    }
+    .aside .row {
+        flex-direction: column;
+    }
+}

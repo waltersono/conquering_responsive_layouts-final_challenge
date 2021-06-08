@@ -1,0 +1,39 @@
+.text--primary {
+    color: var(--primary-color);
+}
+
+.text-secondary {
+    color: var(--secondary-color);
+}
+
+.text-accent {
+    color: var(--accent-color);
+}
+
+.text-white {
+    color: var(--white-color);
+}
+
+.mb-sm {
+    margin-bottom: 1.5rem;
+}
+
+.mb-md {
+    margin-bottom: 2.5rem;
+}
+
+.mb-lg {
+    margin-bottom: 3.5rem;
+}
+
+.mt-sm {
+    margin-top: 1.5rem;
+}
+
+.mt-md {
+    margin-top: 2.5rem;
+}
+
+.mt-lg {
+    margin-top: 3.5rem;
+}
