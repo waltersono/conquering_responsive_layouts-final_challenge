@@ -22,9 +22,15 @@ Users should be able to:
 
 ### Screenshot
 
+#### Mobile Version
 ![Mobile version](./screenshot-mobile.png)
+
+#### Tablet Version
+![Tablet version](./screenshot-tablet.png)
+
+#### Desktop Version
 ![Desktop version](./screenshot-desktop.png)
-![Tablet version](./screenshot-mobile.png)
+
 
 
 ### Links
