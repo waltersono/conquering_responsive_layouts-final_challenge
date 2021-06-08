@@ -1,6 +1,6 @@
 # Conquering Responsive Layouts - Final Challenge
 
-This is a solution to the final challenge of the course Conquering Responsive Layouts by Kevin Powell that i did to sharpen my CSS skills.
+This is a solution to the final challenge of the course [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) by [Kevin Powell](https://www.kevinpowell.co/) that i did to sharpen my CSS skills.
 
 ## Table of contents
 
