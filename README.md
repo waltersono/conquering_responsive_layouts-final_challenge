@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/waltersono/frontendmentor-stats-preview](https://github.com/waltersono/frontendmentor-stats-preview)
-- Live Site URL: [https://waltersono.github.io/frontendmentor-stats-preview/](https://waltersono.github.io/frontendmentor-stats-preview/)
+- Solution URL: [https://github.com/waltersono/conquering_responsive_layouts-final_challenge](https://github.com/waltersono/conquering_responsive_layouts-final_challenge)
+- Live Site URL: [https://waltersono.github.io/conquering_responsive_layouts-final_challenge/](https://waltersono.github.io/conquering_responsive_layouts-final_challenge/)
 
 ## My process
 
